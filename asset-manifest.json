@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agency-page/static/css/main.96ed0f21.css",
+    "main.js": "/agency-page/static/js/main.3831de7d.js",
+    "static/media/hero.png": "/agency-page/static/media/hero.ba04625ebae0d340eb5b.png",
+    "static/media/about-section.png": "/agency-page/static/media/about-section.22f1bd65d0c05d1754f9.png",
+    "static/media/elipses-horizontal.png": "/agency-page/static/media/elipses-horizontal.04e3fc7928f77ea82c61.png",
+    "index.html": "/agency-page/index.html",
+    "main.96ed0f21.css.map": "/agency-page/static/css/main.96ed0f21.css.map",
+    "main.3831de7d.js.map": "/agency-page/static/js/main.3831de7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ed0f21.css",
+    "static/js/main.3831de7d.js"
+  ]
+}
