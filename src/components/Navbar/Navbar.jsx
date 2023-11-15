@@ -24,7 +24,7 @@ function NavbarComponent() {
 
   return (
     <div>
-      <div className="navbar bg-gray-800 p-4">
+      <div className="navbar bg-gray-800 p-4 lg:mx-20">
         <div className="container mx-auto flex justify-between items-center">
           <img src={NavLogo} alt="Logo" className="w-20 logo" />
           <ul className="flex justify-center lg:justify-start mx-8 menu-items">
