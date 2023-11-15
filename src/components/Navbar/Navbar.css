@@ -1,0 +1,60 @@
+@import "./../../vars.css";
+
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .logo {
+    max-width: 80%;
+  }
+
+  .menu-items {
+    display: none;
+  }
+}
+
+.navbar {
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+  padding-top: var(--spacing-2xl);
+}
+.menu-items {
+  margin-left: var(--spacing-4xl);
+  margin-right: var(--spacing-4xl);
+  font-size: 20px;
+}
+
+.nav-button {
+  display: flex;
+  padding: 16px 41px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  border-radius: 10px;
+  background: var(--primary-90-main, #243665);
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+}
+.nav-button-2 {
+  background: var(--primary-90-main, #243665);
+}
+
+@media (max-width: 767px) {
+  .menu-items {
+    display: none;
+  }
+
+  #mobile-menu-button {
+    display: block;
+  }
+
+  #mobile-menu {
+    display: none;
+  }
+
+  #mobile-menu.block {
+    display: block;
+  }
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "faLaptop",
+        "service": "Web Development",
+        "serviceDesc": "Craft visually stunning and highly functional websites that create a lasting impression and drive results."
+    },
+    {
+        "icon": "faMobileAndroid",
+        "service": "Mobile Development",
+        "serviceDesc": "Harness the flexibility and scalability of cloud technologies for optimized performance and cost-effectiveness."
+    },
+    {
+        "icon": "faPaintBrush",
+        "service": "Graphic Design",
+        "serviceDesc": "Amplify your online presence and reach your target audience with data-driven marketing strategies."
+    },
+    {
+        "icon": "faDesktop",
+        "service": "UI/UX Design",
+        "serviceDesc": "Crafting the perfect user interface (UI) and user experience (UX) is like composing a symphony for the digital world. It's not just about pixels and code; it's about creating a seamless dance between users and technology."
+    },
+    {
+        "icon": "faPen",
+        "service": "Content Writter",
+        "serviceDesc": "Ensuring that your content is optimized for higher rankings and increased organic traffic."
+    },
+    {
+        "icon": "faBriefcase",
+        "service": "Branding",
+        "serviceDesc": "Establish a strong brand presence with our brand strategy, logo design, and visual identity services."
+    }
+]

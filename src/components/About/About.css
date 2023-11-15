@@ -1,0 +1,25 @@
+@import "../../vars.css";
+.about-section {
+  font-family: "Poppins";
+}
+.about-section h2 {
+  padding-top: var(--spacing-4xl);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  color: var(--primary-90-main);
+}
+.about-section p {
+  font-family: Poppins;
+  font-size: 20px;
+  width: 488px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 170%;
+  letter-spacing: 1px;
+  color: var(--gray-60);
+}
+.about-section button {
+  background: var(--primary-90-main, #243665);
+}

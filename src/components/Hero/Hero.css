@@ -1,0 +1,46 @@
+@import "../../vars.css";
+.hero-section {
+  font-family: "Poppins", sans-serif;
+  padding-top: var(--spacing-4xl);
+}
+.hero-section h5 {
+  font-family: Poppins;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+  color: var(--primary-90-main);
+  padding-bottom: var(--spacing-4xl);
+}
+.hero-section .content {
+  font-family: Poppins;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  color: var(--primary-90-main);
+}
+.hero-section p {
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 170%;
+  letter-spacing: 1px;
+  color: var(--gray-60);
+}
+
+.hero-section span {
+  font-weight: bold;
+}
+.hero-section button {
+  display: flex;
+  padding: var(--lg, 16px) 41px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  border-radius: 10px;
+  background: var(--primary-90-main, #243665);
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}

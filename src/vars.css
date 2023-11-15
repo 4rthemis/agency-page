@@ -1,0 +1,58 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+:root {
+  /* Colors */
+  --primary-10: #ffffff;
+  --primary-20: #e3eaff;
+  --primary-30: #cfdcff;
+  --primary-40: #b7c9f8;
+  --primary-50: #9db3ed;
+  --primary-60: #778ecb;
+  --primary-70: #566da9;
+  --primary-80: #3b4f87;
+  --primary-90-main: #243665;
+  --primary-100: #132043;
+
+  --secondary-10: #fffaeb;
+  --secondary-20: #ffefbe;
+  --secondary-30: #ffe391;
+  --secondary-40: #ffd863;
+  --secondary-50-main: #ffcd36;
+  --secondary-60: #e9b824;
+  --secondary-70: #c79a13;
+  --secondary-80: #a57d06;
+  --secondary-90: #836200;
+  --secondary-100: #614900;
+
+  --gray-10: #f5f5f5;
+  --gray-20: #f5f5f5;
+  --gray-30: #e1e1e1;
+  --gray-40: #cbcbcb;
+  --gray-50: #bdbcbc;
+  --gray-60: #9d9d9d;
+  --gray-70: #878484;
+  --gray-80: #706c6c;
+  --gray-90: #595454;
+  --gray-100-main: #433e3e;
+
+  /* Spacing */
+  --spacing-4xs: 1px;
+  --spacing-3xs: 2px;
+  --spacing-2xs: 4px;
+  --spacing-xs: 6px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 20px;
+  --spacing-2xl: 24px;
+  --spacing-3xl: 32px;
+  --spacing-4xl: 40px;
+
+
+}
+

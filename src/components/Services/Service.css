@@ -1,0 +1,19 @@
+@import "../../vars.css";
+
+.service-section {
+  background-color: var(--primary-90-main);
+  font-family: Poppins;
+}
+.service-section h1 {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--gray-10);
+}
+.service-section .icon {
+  background-color: var(--primary-40);
+}
+
+.service-section p {
+  color: var(--gray-60);
+}

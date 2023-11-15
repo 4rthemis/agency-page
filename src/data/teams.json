@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/stRDF29/gwee.jpg",
+    "name": "Syahrul Awaludin",
+    "title": "UI/UX Designer | Frontend Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Muhammad Arifin Habibi",
+    "title": "Full Stack Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Firza Aurellia Iskandar",
+    "title": "UI/UX Designer | Mobile Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Rifqi Ikhsan",
+    "title": "Mobile Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Rigan Nur Fauzi",
+    "title": "UI/UX Designer | Frontend Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Rio Septiadi",
+    "title": "Mobile Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Adit Praditia",
+    "title": "Frontend Developer",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/GdWBK53/gavin2.webp",
+    "name": "Dzaki Fadhlurahman",
+    "title": "Digital Marketing | Graphic Design",
+    "quote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+  }
+]

@@ -1,0 +1,4 @@
+@import "../../vars.css";
+.footer {
+  background-color: var(--primary-90-main);
+}
