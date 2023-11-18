@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/agency-page/static/css/main.b8819c84.css",
-    "main.js": "/agency-page/static/js/main.df94cfe2.js",
+    "main.css": "/agency-page/static/css/main.49995462.css",
+    "main.js": "/agency-page/static/js/main.cab58485.js",
     "static/media/hero.png": "/agency-page/static/media/hero.ba04625ebae0d340eb5b.png",
     "static/media/about-section.png": "/agency-page/static/media/about-section.22f1bd65d0c05d1754f9.png",
     "static/media/elipses-horizontal.png": "/agency-page/static/media/elipses-horizontal.04e3fc7928f77ea82c61.png",
+    "static/media/footer-logo.png": "/agency-page/static/media/footer-logo.5b188319f1c4e88e3b31.png",
+    "static/media/nav-logo.png": "/agency-page/static/media/nav-logo.325090af806b8cd45968.png",
     "index.html": "/agency-page/index.html",
-    "main.b8819c84.css.map": "/agency-page/static/css/main.b8819c84.css.map",
-    "main.df94cfe2.js.map": "/agency-page/static/js/main.df94cfe2.js.map"
+    "main.49995462.css.map": "/agency-page/static/css/main.49995462.css.map",
+    "main.cab58485.js.map": "/agency-page/static/js/main.cab58485.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8819c84.css",
-    "static/js/main.df94cfe2.js"
+    "static/css/main.49995462.css",
+    "static/js/main.cab58485.js"
   ]
 }
