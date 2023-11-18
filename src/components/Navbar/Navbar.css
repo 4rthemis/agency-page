@@ -18,7 +18,7 @@
 .navbar {
   font-family: "Poppins", sans-serif;
   background-color: #fff;
-  padding-top: var(--spacing-2xl);
+  padding-top: var(--spacing-4xl);
 }
 .menu-items {
   margin-left: var(--spacing-4xl);
