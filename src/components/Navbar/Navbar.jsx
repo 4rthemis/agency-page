@@ -60,7 +60,7 @@ function NavbarComponent() {
           id="mobile-menu"
           className={`lg:hidden ${isMobileMenuVisible ? "block" : "hidden"}`}
         >
-          <ul className="block space-y-2">
+          <ul className="block space-y-2 py-8">
             <li className="mx-4">
               <a href="#Home" onClick={toggleMobileMenu}>
                 Home
