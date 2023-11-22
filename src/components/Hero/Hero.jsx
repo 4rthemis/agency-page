@@ -30,7 +30,7 @@ const HeroComponent = () => {
               {" "}
               Zara
             </span>{" "}
-            Agency creative digital from Indonesia
+            Craft Agency digital from Indonesia
           </h1>
         </span>
         <p

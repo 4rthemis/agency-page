@@ -9,10 +9,10 @@ const FooterComponent = () => {
         <div className="inline-block ">
           <img src={FooterLogo} alt="" className="w-20 pb-6" />
           <p className="text-white text-lg tracking-wider pb-3">
-            Zara Creative Agency is a digital agency from Jakarta.
+            Zara Craft Agency is a digital agency from Jakarta.
           </p>
           <p className="text-white text-lg tracking-wider pb-3">
-            zaracreativeagency@gmail.com
+            zaracraftagency@gmail.com
           </p>
           <p className="text-white text-lg tracking-wider">08323344814</p>
         </div>
@@ -51,7 +51,7 @@ const FooterComponent = () => {
       </div>
       <div className="text-center pb-5 px-5">
         <p className="text-white">
-          Copy Right © 2023 Zara Creative Agency. All Rights Reserved{" "}
+          Copy Right © 2023 Zara Craft Agency. All Rights Reserved{" "}
         </p>
       </div>
     </section>
