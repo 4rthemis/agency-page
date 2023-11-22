@@ -1,6 +1,6 @@
 import React from "react";
 import  "../Footer/Footer.css";
-import FooterLogo from "../../assets/footer/footer-logo.png";
+import FooterLogo from "../../assets/footer/logo-footer.png";
 
 const FooterComponent = () => {
   return (
@@ -19,34 +19,34 @@ const FooterComponent = () => {
 
         <div className="block text-white xl:-mr-96 pt-10 xl:pt-0 md:pt-10">
           <h2 className="font-bold text-3xl mb-12 md:mb-8">Product</h2>
-          <a href="#">
+          <to href="#">
             <p className="text-lg mb-2">Mobile Apps</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg mb-2">Web Apps</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg mb-2">UI/UI Design</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg">Design Logo</p>
-          </a>
+          </to>
         </div>
 
         <div className="block text-white pt-10 xl:pt-0 md:pt-10">
           <h2 className="font-bold text-3xl mb-12 md:mb-8">Follow Us</h2>
-          <a href="#">
+          <to href="#">
             <p className="text-lg mb-2">Instagram</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg mb-2">Linkedin</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg mb-2">Dribble</p>
-          </a>
-          <a href="#">
+          </to>
+          <to href="#">
             <p className="text-lg">Behance</p>
-          </a>
+          </to>
         </div>
       </div>
       <div className="text-center pb-5 px-5">

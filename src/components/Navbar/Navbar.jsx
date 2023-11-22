@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import NavLogo from "../../assets/nav/nav-logo.png";
+import NavLogo from "../../assets/nav/logo-nav.png";
 import "../Navbar/Navbar.css";
 
 function NavbarComponent() {
