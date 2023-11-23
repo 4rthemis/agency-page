@@ -39,7 +39,7 @@ const AboutComponent = () => {
             data-aos-duration="800"
             className="text-gray-700 justify-content-center"
           >
-            Zara Creative Agency is a digital agency from Jakarta. We believe in
+            Zara Craft Agency is a digital agency from Jakarta. We believe in
             pushing boundaries, thinking beyond the ordinary, and transforming
             ideas into reality. Let us be your trusted partner on your digital
             journey.
